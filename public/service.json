@@ -1,0 +1,49 @@
+[
+    {
+        "service_id" : "1",
+        "title" : "Weddings",
+        "img" : "./weddin.jpg",
+        "description" : "Welcome to Event Hub,where dreams of a perfect wedding day come to life! Our dedicated team specializes in crafting unforgettable wedding experiences",
+        "price" : "3,000"
+
+    },
+    {
+        "service_id" : "2",
+        "title" : "Birthday Parties",
+        "img" : "./birthday.jpg",
+        "description" : "Make every birthday unforgettable with Us! We're your premier partner in creating remarkable birthday celebrations that leave smiles, laughter, and lasting memories..",
+        "price" : "2,000"
+
+    },
+    {
+        "service_id" : "3",
+        "title" : "Anniversaries Parties",
+        "img" : "./anniversary.jpg",
+        "description" : "Cherish the journey of love with Us! Our passion is crafting unforgettable anniversary celebrations that honor your enduring commitment and love story...",
+        "price" : "2,500"
+
+    },
+    {
+        "service_id" : "4",
+        "title" : "Engagement Parties",
+        "img" : "./engagment.jpg",
+        "description" : "Embark on your journey to forever with Us! Our expertise lies in crafting enchanting engagement celebrations that mark the beginning of your lifelong adventure together. From intimate gatherings to extravagant affairs..",
+        "price" : "3,500"
+
+    },
+    {
+        "service_id" : "5",
+        "title" : "Class Parties",
+        "img" : "./class_party.jpg",
+        "description" : "Elevate your class gatherings with Us! We specialize in creating memorable class parties that bring classmates together for fun, nostalgia, and camaraderie. Whether it's a high school reunion, college get-together, or any class event.",
+        "price" : "2,500"
+
+    },
+    {
+        "service_id" : "6",
+        "title" : "Retirement Parties",
+        "img" : "./retirement.jpg",
+        "description" : "Embrace the golden years with Us! We specialize in creating unforgettable retirement parties that honor a lifetime of dedication and hard work. From elegant soirées to relaxed gatherings, we craft retirement celebrations.",
+        "price" : "4,500"
+    }
+]
